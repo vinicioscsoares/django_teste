@@ -1,1 +1,1 @@
-# Teste de consumo de API do Pokemin
+# Teste de consumo de API do Pokemon
